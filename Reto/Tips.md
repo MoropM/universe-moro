@@ -17,6 +17,11 @@ for i in range(10):
 
 <!-- Sección de tips -->
 
+```py
+print("Practica, practica y practica")
+for i in range(10):
+    print(i)
+```
 
 
 <!-- Sección de tips - FIN -->
