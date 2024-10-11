@@ -16,11 +16,10 @@ for i in range(10):
 
 
 <!-- Sección de tips -->
-
-```py
-print("Practica, practica y practica")
-for i in range(10):
-    print(i)
+> [!TIP]
+> Practica, practica y practica
+```php
+echo "Verisa y apredende de los demás";
 ```
 
 
